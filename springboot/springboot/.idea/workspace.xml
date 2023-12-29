@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="854c4026-4b04-41ac-9249-339216b2e441" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\study\mvn_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../study/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\study\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2SyB9pL06ytklL9Z9Dl4JuA1lcZ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dicloug/Desktop/py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;F:/nodejs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;F:\\nodejs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d164d99c46d45be6b1e7585ff7ea10e7&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springboot.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dicloug\Desktop\py" />
+      <recent name="D:\code\JAVA\SpringBoot+VUE\医院在线挂号系统\springboot\src\main\resources\templates" />
+      <recent name="D:\code\JAVA\SpringBoot+VUE\医院在线挂号系统\springboot\vue\src\views\admin" />
+      <recent name="D:\code\JAVA\SpringBoot\后台管理模板\springboot\src\main\java\com\example\springboot\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dicloug\Desktop\springboot\springboot\src\main\java\com\example\springboot\service" />
+      <recent name="D:\code\JAVA\SpringBoot+VUE\医院在线挂号系统\springboot\vue\src\views\admin" />
+      <recent name="D:\code\JAVA\SpringBoot\后台管理模板\springboot\vue\src\views" />
+      <recent name="D:\code\SpringBoot\后台管理模板\springboot\vue\src\views\test" />
+      <recent name="D:\code\SpringBoot\后台管理模板\springboot\vue\src\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springboot.utils.CodeGenerator" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboot.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springboot.controller.Demo" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboot.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="springboot" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.SpringbootApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="F:\nodejs\node_modules\npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+      <item itemvalue="应用程序.CodeGenerator" />
+      <item itemvalue="应用程序.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="854c4026-4b04-41ac-9249-339216b2e441" name="默认变更列表" comment="" />
+      <created>1690108793982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690108793982</updated>
+      <workItem from="1690108795236" duration="56000" />
+      <workItem from="1690108935131" duration="195000" />
+      <workItem from="1690111917576" duration="231000" />
+      <workItem from="1691329009005" duration="132000" />
+      <workItem from="1692452183000" duration="312000" />
+      <workItem from="1692536083632" duration="662000" />
+      <workItem from="1692541613537" duration="169000" />
+      <workItem from="1698289968525" duration="607000" />
+      <workItem from="1698291298530" duration="111000" />
+      <workItem from="1698291430895" duration="97000" />
+      <workItem from="1698291759642" duration="460000" />
+      <workItem from="1698292391890" duration="2562000" />
+      <workItem from="1698319580975" duration="2058000" />
+      <workItem from="1698372847956" duration="20501000" />
+      <workItem from="1698463911460" duration="1121000" />
+      <workItem from="1698494577019" duration="5226000" />
+      <workItem from="1698548343354" duration="4357000" />
+      <workItem from="1698557795273" duration="17441000" />
+      <workItem from="1698634267486" duration="19865000" />
+      <workItem from="1698725208229" duration="9446000" />
+      <workItem from="1698806286688" duration="12000" />
+      <workItem from="1698895349429" duration="461000" />
+      <workItem from="1698895829402" duration="1514000" />
+      <workItem from="1698897366331" duration="3246000" />
+      <workItem from="1698910453703" duration="1000" />
+      <workItem from="1698910566726" duration="6000" />
+      <workItem from="1698930107991" duration="4841000" />
+      <workItem from="1700560424509" duration="507000" />
+      <workItem from="1700762575494" duration="1727000" />
+      <workItem from="1701010766302" duration="9493000" />
+      <workItem from="1701102435615" duration="3480000" />
+      <workItem from="1701106924780" duration="806000" />
+      <workItem from="1701161848346" duration="739000" />
+      <workItem from="1701168990771" duration="3048000" />
+      <workItem from="1701173186795" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

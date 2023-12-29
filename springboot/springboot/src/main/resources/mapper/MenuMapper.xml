@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springboot.mapper.MenuMapper">
+
+    <select id="listByRole" resultType="com.example.springboot.entity.Menu">
+        SELECT
+            sm.*
+        FROM
+            sys_role_menu srm,
+            sys_menu sm
+        WHERE
+          srm.menu_id = sm.id
+          AND srm.role_id = #{role} order by sm.sort_num asc
+    </select>
+</mapper>

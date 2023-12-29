@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springboot.mapper.SchedulingMapper">
+
+    <select id="userByDate" resultType="com.example.springboot.entity.User">
+        select u.*
+        from sys_user u,
+             t_scheduling s
+        where u.id = s.doctor_id
+          and s.date = #{date}
+          and u.department_id = #{department}
+    </select>
+</mapper>
